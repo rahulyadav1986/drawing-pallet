@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// canvas{
+//     width: 800px !important;
+//     height: 500px !important;
+//     position: relative !important;
+// }
+
+#canvas{
+    // background-color:red ;
+    background-size: cover;
+    border: red 10px solid;
+}

@@ -1,0 +1,12 @@
+color picker- https://codepen.io/Elite4Web/pen/xQJQKg
+image filters- http://fabricjs.com/image-filters
+image customaization- https://codepen.io/miljkovicmisa/pen/QGRjNK/
+t-shirt customaization link- https://ourcodeworld.com/articles/read/1016/how-to-create-your-own-t-shirt-designer-using-fabricjs-in-javascript
+image export - https://codepen.io/telember/pen/dymemV
+canvas customaization example- https://www.canvassignages.com/pages/customize
+font manupulate- http://fabricjs.com/loadfonts
+fabric js demos- http://fabricjs.com/demos/
+
+fabric fire canvas- http://fabricjs.com/docs/fabric.Canvas.html
+
+video tutoriual- https://www.youtube.com/watch?v=pIRAUNkKtFY
